@@ -1,2 +1,2 @@
-plik testowy 2 /  zmiana w linii - serwer
+plik testowy 2 /  druga zmiana w linii - serwer
 zmieniony
