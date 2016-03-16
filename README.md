@@ -5,3 +5,4 @@ zmieniony lokalnie
 
 zmieniony na serwerze
 
+zmieniony ponownie lokalnie
