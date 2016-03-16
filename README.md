@@ -2,3 +2,6 @@
 testreadme
 
 zmieniony lokalnie
+
+zmieniony na serwerze
+
