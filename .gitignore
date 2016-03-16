@@ -1,0 +1,3 @@
+ignorowany_plik
+*.tmp
+/log/*
